@@ -1,5 +1,5 @@
 ---
-title: "Software and package management"
+title: "Software management"
 date: 2023-07-04T08:39:45+02:00
 draft: false
 weight: 4

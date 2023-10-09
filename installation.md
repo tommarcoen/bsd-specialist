@@ -1,5 +1,5 @@
 ---
-title: "Operating system installation"
+title: "OS installation"
 date: 2023-07-04T08:39:45+02:00
 draft: false
 weight: 3
@@ -204,6 +204,6 @@ I will take the middle ground and pick the disc1 image.
 
 ## Upgrading OpenBSD
 
-## Upgrading FreeBSd
+## Upgrading FreeBSD
 
 ## Upgrading NetBSD
